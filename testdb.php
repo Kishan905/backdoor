@@ -1,9 +1,9 @@
 <?php
 // Database credentials
 $host = "172.16.144.197";
-$user = "root";      // Replace with your database username
-$password = "";      // Replace with your database password
-$dbname = "bwuniver_academics";  // Replace with your database name
+$user = "bwuniversity_XbKLF80P";      // Replace with your database username
+$password = "5II2ieNMGPlf0ypS";      // Replace with your database password
+$dbname = "bwuniver_mentor";  // Replace with your database name
 
 // Connection to the database
 $connection = new mysqli($host, $user, $password, $dbname);
