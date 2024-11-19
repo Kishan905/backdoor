@@ -1,6 +1,6 @@
 <?php
 // Database credentials
-$host = "172.16.144.197"; // Update if your host is different
+$host = "172.16.144.197";
 $user = "root";      // Replace with your database username
 $password = "";      // Replace with your database password
 $dbname = "bwuniver_academics";  // Replace with your database name
