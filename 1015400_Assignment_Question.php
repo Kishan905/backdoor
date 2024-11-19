@@ -1,6 +1,6 @@
 <?php
 // Include the Database class from its directory
-require_once '/home/brainwareunivers/public_html/bwu-buis-api/config/Database.php';
+require_once 'Database.php';
 
 $db = new Database();
 $result_message = "";
